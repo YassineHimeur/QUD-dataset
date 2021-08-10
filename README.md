@@ -9,9 +9,13 @@ Those wishing to use the dataset in academic work should cite this paper as the 
 Selected Bibliography:
 
 [1] “Artificial intelligence based anomaly detection of energy consumption in buildings: A review, current trends and new perspectives,” Applied Energy, vol. 287, p. 116601, Apr. 2021, doi: 10.1016/j.apenergy.2021.116601. 
+
 [2] A. Alsalemi, Y. Himeur, F. Bensaali, and A. Amira, “Appliance-Level Monitoring with Micro-Moment Smart Plugs,” arXiv:2012.05787 [cs], Dec. 2020 [Online]. Available: http://arxiv.org/abs/2012.05787. [Accessed: 10-Aug-2021]
+
 [3] “Data fusion strategies for energy efficiency in buildings: Overview, challenges and novel orientations,” Information Fusion, vol. 64, pp. 99–120, Dec. 2020, doi: 10.1016/j.inffus.2020.07.003. 
+
 [4] “Building power consumption datasets: Survey, taxonomy and future directions,” Energy and Buildings, vol. 227, p. 110404, Nov. 2020, doi: 10.1016/j.enbuild.2020.110404. 
+
 [5] A. Alsalemi et al., “Boosting Domestic Energy Efficiency Through Accurate Consumption Data Collection,” in 2019 IEEE SmartWorld, Ubiquitous Intelligence Computing, Advanced Trusted Computing, Scalable Computing Communications, Cloud Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI), 2019, pp. 1468–1472, doi: 10.1109/SmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00265. 
 
 
