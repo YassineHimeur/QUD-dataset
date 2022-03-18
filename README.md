@@ -4,7 +4,7 @@ Qatar university dataset (QUD) is an open access repository, which includes micr
 QUD is an annotated dataset devoted for anomaly detection in power consumption. Five micro moment classes are defined, in which the first three ones represent normal consumption: “class 0: good usage”, “class 1: turn on”, and “class 2: turn off”. 
 On the other hand, “class 3: excessive power consumption” and “class 4: consumption when outside” describe anomalous consumption.
 
-Those wishing to use the dataset in academic work should cite this paper as the reference.  QUD_app-1.csv: this file includes the different kinds of data collected during the measurement campaign: Column 1: Date Column 2: Time Column 3: appID Column 4: occupancy pattern Column 5: Power consumption Column 6: Normalized power Column 7: Quantified power Column 8: Micro-moment class
+Those wishing to use the dataset/codes in academic works should cite this our papers as the references.  QUD.csv: this file includes the energy consumption footprints (collected during the measurement campaign) and corresponding microm-moments labels, check the metada file for more details. DRED.csv: includes a sample of energy consumption from the DRED dataset which has been labeled using micro-moments. SimDataset: represents a simulated dataset that has been generated and labeled using the micro-moment paradigm.
 
 Selected Bibliography: please cite these papers if you use our codes:
 
