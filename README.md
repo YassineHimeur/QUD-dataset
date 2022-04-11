@@ -6,14 +6,18 @@ On the other hand, “class 3: excessive power consumption” and “class 4: co
 
 Those wishing to use the dataset/codes in academic works should cite this our papers as the references.  QUD.csv: this file includes the energy consumption footprints (collected during the measurement campaign) and corresponding microm-moments labels, check the metada file for more details. DRED.csv: includes a sample of energy consumption from the DRED dataset which has been labeled using micro-moments. SimDataset: represents a simulated dataset that has been generated and labeled using the micro-moment paradigm.
 
-Selected Bibliography: please cite these papers if you use our codes:
+Selected Bibliography: please cite these papers if you use the code in this repository:
 
-[1] Y Himeur, A Alsalemi, F Bensaali, A Amira, A novel approach for detecting anomalous energy consumption based on micro-moments and deep neural networks, 
+[1] A. Alsalemi et al., ‘Boosting Domestic Energy Efficiency Through Accurate Consumption Data Collection’, in 2019 IEEE SmartWorld, Ubiquitous Intelligence Computing, Advanced Trusted Computing, Scalable Computing Communications, Cloud Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI), Aug. 2019, pp. 1468–1472. doi: 10.1109/SmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00265. _(original work)_.
+
+[2] A. Alsalemi, Y. Himeur, F. Bensaali, and A. Amira, ‘Appliance-Level Monitoring with Micro-Moment Smart Plugs’, in Innovations in Smart Cities Applications Volume 4, Cham, 2021, pp. 942–953. doi: 10.1007/978-3-030-66840-2_71.
+
+[3] Y Himeur, A Alsalemi, F Bensaali, A Amira, A novel approach for detecting anomalous energy consumption based on micro-moments and deep neural networks, 
 Cognitive Computation 12 (6), 1381-1401
 
-[2] Y. Himeur, A. Alsalemi, F. Bensaali, and A. Amira, “Building power consumption datasets: Survey, taxonomy and future directions,” Energy and Buildings, vol. 227, p. 110404, Nov. 2020, doi: 10.1016/j.enbuild.2020.110404. 
+[4] Y. Himeur, A. Alsalemi, F. Bensaali, and A. Amira, “Building power consumption datasets: Survey, taxonomy and future directions,” Energy and Buildings, vol. 227, p. 110404, Nov. 2020, doi: 10.1016/j.enbuild.2020.110404. 
 
-[3] Y. Himeur, K. Ghanem, A. Alsalemi, F. Bensaali, and A. Amira, “Artificial intelligence based anomaly detection of energy consumption in buildings: A review, current trends and new perspectives,” Applied Energy, vol. 287, p. 116601, Apr. 2021, doi: 10.1016/j.apenergy.2021.116601. 
+[5] Y. Himeur, K. Ghanem, A. Alsalemi, F. Bensaali, and A. Amira, “Artificial intelligence based anomaly detection of energy consumption in buildings: A review, current trends and new perspectives,” Applied Energy, vol. 287, p. 116601, Apr. 2021, doi: 10.1016/j.apenergy.2021.116601. 
 
 
 
